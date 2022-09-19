@@ -1,0 +1,27 @@
+.page{
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+ 
+.header{
+    height: 80px;
+    background-color: rgb(167, 235, 8);
+    display: flex;
+    justify-content: end;
+    
+}
+.header div{
+    margin: 10px;
+}
+
+.form_register{
+    width: 300px;
+    margin:100px  auto;
+}
+.footer {
+    height: 80px;
+    background-color: rgb(167, 235, 8); 
+    margin-top: auto;
+}
